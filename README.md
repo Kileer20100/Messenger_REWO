@@ -46,13 +46,33 @@ markdown
    ```
 2. Завантажте проект:
    ```bash
-   git clone https://github.com/yourusername/yourproject.git
+   git clone https://github.com/Kileer20100/Messenger_REWO.git
    cd yourproject
    ```
 3. Запустіть додаток:
    ```bash
    python3 main.py
    ```
+Вот обновленный раздел для Fedora:
+
+```markdown
+### Для Linux (Fedora)
+
+1. Встановіть Python 3 та необхідні бібліотеки:
+   ```bash
+   sudo dnf install python3-pip python3-devel gcc-c++ make
+   pip3 install kivy pyzmq
+   ```
+2. Завантажте проект:
+   ```bash
+   git clone https://github.com/Kileer20100/Messenger_REWO.git
+   cd yourproject
+   ```
+3. Запустіть додаток:
+   ```bash
+   python3 main.py
+   ```
+```
 
 ### Для Windows
 
@@ -63,7 +83,7 @@ markdown
    ```
 3. Завантажте проект:
    ```bash
-   git clone https://github.com/yourusername/yourproject.git
+   git clone https://github.com/Kileer20100/Messenger_REWO.git
    cd yourproject
    ```
 4. Запустіть додаток:
