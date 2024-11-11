@@ -28,7 +28,7 @@ markdown
    ```
 4. Завантажте проект:
    ```bash
-   git clone [https://github.com/yourusername/yourproject.git](https://github.com/Kileer20100/Messenger_REWO.git)
+   git clone https://github.com/Kileer20100/Messenger_REWO.git
    cd yourproject
    ```
 5. Запустіть додаток:
