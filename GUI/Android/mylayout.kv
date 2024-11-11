@@ -1,0 +1,37 @@
+<MyLayout>:
+    orientation: 'vertical'
+    padding: 20
+    spacing: 20
+    canvas.before:
+        Color:
+            rgba: 0.95, 0.95, 0.95, 1  # Светло-серый фон
+        Rectangle:
+            pos: self.pos
+            size: self.size
+
+    Label:
+        text: "Ого что за начало?"
+        font_size: 24
+        bold: True
+        color: 0.2, 0.2, 0.2, 1
+        size_hint_y: 0.4
+
+    BoxLayout:
+        size_hint_y: 0.2
+        spacing: 15
+
+        Button:
+            text: "Илья петух"
+            bold: True
+            border: (16, 16, 16, 16)
+            background_color: 0.1, 0.6, 0.8, 1  # Голубой цвет
+            color: 1, 1, 1, 1  # Белый текст
+            font_size: 18
+
+        Button:
+            text: "Коля красавчик"
+            bold: True
+            border: (16, 16, 16, 16)
+            background_color: 0.1, 0.8, 0.4, 1  # Зеленый цвет
+            color: 1, 1, 1, 1  # Белый текст
+            font_size: 18
