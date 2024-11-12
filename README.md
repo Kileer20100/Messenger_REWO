@@ -73,12 +73,13 @@ markdown
    ```bash
    python3 main.py
    ```
-```
+
 
 ### Для Windows
 
 1. Завантажте Python 3 з [офіційного сайту](https://www.python.org/downloads/).
 2. Після встановлення Python, відкрийте командний рядок та встановіть необхідні бібліотеки:
+
    ```bash
    pip install kivy pyzmq
    ```
