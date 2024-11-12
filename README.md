@@ -56,7 +56,7 @@ markdown
 
 ### Для Linux (Fedora)
 
-```markdown
+
 ### Для Linux (Fedora)
 
 1. Встановіть Python 3 та необхідні бібліотеки:
